@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="https://portal.rosreestr.ru/xsl/EGRP/Reestr_Extract_Big/OKS/07/Common.xsl"?>
+
+<KVOKS xmlns="urn://x-artefacts-rosreestr-ru/outgoing/kvoks/3.0.1"
+xmlns:smev="urn://x-artefacts-smev-gov-ru/supplementary/commons/1.0.1"
+xmlns:num="urn://x-artefacts-rosreestr-ru/commons/complex-types/numbers/1.0"
+xmlns:adrs="urn://x-artefacts-rosreestr-ru/commons/complex-types/address-output/4.0.1"
+xmlns:spa="urn://x-artefacts-rosreestr-ru/commons/complex-types/entity-spatial/5.0.1"
+xmlns:param="urn://x-artefacts-rosreestr-ru/commons/complex-types/parameters-oks/2.0.1"
+xmlns:cer="urn://x-artefacts-rosreestr-ru/commons/complex-types/certification-doc/1.0"
+xmlns:doc="urn://x-artefacts-rosreestr-ru/commons/complex-types/document-output/4.0.1"
+xmlns:ch="urn://x-artefacts-rosreestr-ru/commons/complex-types/cultural-heritage/2.0.1">
+<Realty>
+<Building CadastralNumber="77:01:0003022:1014" State="01"
+DateCreated="2012-05-22"
+>
+<CadastralBlocks>
+<CadastralBlock>77:01:0003022</CadastralBlock>
+</CadastralBlocks>
+<ObjectType>002001002000</ObjectType>
+<ParentCadastralNumbers>
+<CadastralNumber>77:01:0003022:11</CadastralNumber>
+</ParentCadastralNumbers>
+<OldNumbers>
+<num:OldNumber Type="02" Number="2137354" />
+</OldNumbers>
+<AssignationBuilding>204001000000</AssignationBuilding>
+<ElementsConstruct>
+<param:Material Wall="061001001001" />
+</ElementsConstruct>
+<ExploitationChar YearBuilt="1895" YearUsed="1895" />
+<Floors Floors="3" />
+<Area>2327.5</Area>
+<Address>
+<adrs:OKATO>45286555000</adrs:OKATO>
+<adrs:KLADR>77000000000065000</adrs:KLADR>
+<adrs:PostalCode>105066</adrs:PostalCode>
+<adrs:Region>77</adrs:Region>
+<adrs:UrbanDistrict Name="Басманный" Type="р-н" />
+<adrs:Street Name="Красносельская Нижн." Type="ул" />
+<adrs:Level1 Type="д" Value="35" />
+<adrs:Level3 Type="строен" Value="3" />
+<adrs:Note>г Москва, ул Нижняя Красносельская, д 35, строен 3</adrs:Note>
+</Address>
+<CadastralCost Value="346546874.8" Unit="383" />
+<EntitySpatial EntSys="ID1" >
+<spa:SpatialElement >
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="1" >
+<spa:Ordinate X="12159.99" Y="10945.6" OrdNmb="1"
+/>
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="2" >
+<spa:Ordinate X="12158.57" Y="10943.65" OrdNmb="1"
+/>
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="3" >
+<spa:Ordinate X="12162.15" Y="10940.91" OrdNmb="1"
+/>
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="4" >
+<spa:Ordinate X="12163.64" Y="10942.8" OrdNmb="1"
+/>
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="5" >
+<spa:Ordinate X="12166.39" Y="10940.6" OrdNmb="1"
+/>
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="6" >
+<spa:Ordinate X="12179.74" Y="10930" OrdNmb="1"
+/>
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="7" >
+<spa:Ordinate X="12188.01" Y="10941.07" OrdNmb="1"
+/>
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="8" >
+<spa:Ordinate X="12186.83" Y="10941.97" OrdNmb="1"
+/>
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="9" >
+<spa:Ordinate X="12184.6" Y="10946.44" OrdNmb="1"
+/>
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="10" >
+<spa:Ordinate X="12176.34" Y="10953.1" OrdNmb="1"
+/>
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="11" >
+<spa:Ordinate X="12173.69" Y="10955.25" OrdNmb="1"
+/>
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="12" >
+<spa:Ordinate X="12173.38" Y="10955.5" OrdNmb="1"
+/>
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="13" >
+<spa:Ordinate X="12175.55" Y="10958.29" OrdNmb="1"
+/>
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="14" >
+<spa:Ordinate X="12170.21" Y="10962.74" OrdNmb="1"
+/>
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="15" >
+<spa:Ordinate X="12167.92" Y="10959.95" OrdNmb="1"
+/>
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="16" >
+<spa:Ordinate X="12160.09" Y="10966.35" OrdNmb="1"
+/>
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="17" >
+<spa:Ordinate X="12163.31" Y="10970.34" OrdNmb="1"
+/>
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="18" >
+<spa:Ordinate X="12161.89" Y="10974.79" OrdNmb="1"
+/>
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="19" >
+<spa:Ordinate X="12165.95" Y="10979.81" OrdNmb="1"
+/>
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="20" >
+<spa:Ordinate X="12158.19" Y="10986" OrdNmb="1"
+/>
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="21" >
+<spa:Ordinate X="12152.99" Y="10979.4" OrdNmb="1"
+/>
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="22" >
+<spa:Ordinate X="12149.39" Y="10975" OrdNmb="1"
+/>
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="23" >
+<spa:Ordinate X="12144.19" Y="10968" OrdNmb="1"
+/>
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="24" >
+<spa:Ordinate X="12139.59" Y="10961.8" OrdNmb="1"
+/>
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="25" >
+<spa:Ordinate X="12143.25" Y="10958.9" OrdNmb="1"
+/>
+</spa:SpelementUnit>
+<spa:SpelementUnit TypeUnit="Точка" SuNmb="1" >
+<spa:Ordinate X="12159.99" Y="10945.6" OrdNmb="1"
+/>
+</spa:SpelementUnit>
+</spa:SpatialElement>
+</EntitySpatial>
+<Notes> Сведения о наименовании, количестве этажей, в том числе подземных этажей имеют статус «Актуальные незасвидетельствованные». Право (ограничение права, обременение объекта недвижимости) зарегистрировано на данный объект недвижимости с наименованием «Здание», количеством этажей, в том числе подземных этажей отсутствует.</Notes>
+<Flats>
+<Flat CadastralNumber="77:01:0003022:1652" >
+<Area>465.7</Area>
+<PositionInObject>
+<Levels>
+<Level Number="1" Type="01">
+<Position NumberOnPlan="2137354/0003">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+</Flat>
+<Flat CadastralNumber="77:01:0003022:1653" >
+<Area>747.6</Area>
+<PositionInObject>
+<Levels>
+<Level Number="2" Type="01">
+<Position NumberOnPlan="2137354/0004">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+</Flat>
+<Flat CadastralNumber="77:01:0003022:1650" >
+<Area>167.5</Area>
+<PositionInObject>
+<Levels>
+<Level Number="1" Type="01">
+<Position NumberOnPlan="2137354/0001">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+</Flat>
+<Flat CadastralNumber="77:01:0003022:1651" >
+<Area>207.7</Area>
+<PositionInObject>
+<Levels>
+<Level Number="1" Type="01">
+<Position NumberOnPlan="2137354/0002">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+</Flat>
+<Flat CadastralNumber="77:01:0003022:1654" >
+<Area>739</Area>
+<PositionInObject>
+<Levels>
+<Level Number="3" Type="01">
+<Position NumberOnPlan="2137354/0005">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+</Flat>
+</Flats>
+</Building>
+</Realty>
+<CertificationDoc>
+<cer:Organization>ФГИС ЕГРН</cer:Organization>
+<cer:Date>2018-07-06</cer:Date>
+<cer:Number>99/2018/129877369</cer:Number>
+</CertificationDoc>
+<CoordSystems>
+<spa:CoordSystem Name="СК кадастрового округа" CsId="ID0" />
+<spa:CoordSystem Name="Московская" CsId="ID1" />
+</CoordSystems>
+<eDocument CodeType="112" Version="07" Scope="GKN">
+<Sender Kod="00.0.4.195"
+Name="ФГИС ЕГРН"
+Region="99"
+Date_Upload="2018-07-06"
+Appointment="Государственный регистратор"
+/>
+<Recipient Kod="00.0.4.111" Name="Круглова Анастасия Владимировна" />
+</eDocument>
+<ReestrExtract>
+<DeclarAttribute ID_KUVI="0"
+ExtractTypeCode="012000"
+ExtractTypeText="Выписка из Единого государственного реестра недвижимости об объекте недвижимости"
+ExtractNumber="99/2018/129877369"
+ExtractDate="06.07.2018"
+RequeryNumber="80-44697791"
+RequeryDate="06.07.2018"
+ExtractCount="1"
+NoticeCount="0"
+RefuseCount="0"
+Registrator="ФГИС ЕГРН">
+<ReceivName>Круглова Анастасия Владимировна</ReceivName>
+<ReceivAdress>не указан</ReceivAdress>
+</DeclarAttribute>
+<ExtractObjectRight>
+<HeadContent>
+<ID_REC_KUVI>0</ID_REC_KUVI>
+<Title>ФЕДЕРАЛЬНАЯ СЛУЖБА ГОСУДАРСТВЕННОЙ РЕГИСТРАЦИИ, КАДАСТРА И КАРТОГРАФИИ</Title>
+<DeptName>ФГИС ЕГРН</DeptName>
+<ExtractTitle>Выписка из Единого государственного реестра недвижимости об объекте недвижимости</ExtractTitle>
+<Content>На основании запроса от 06.07.2018 г., поступившего на рассмотрение 06.07.2018 г., сообщаем, что согласно записям Единого государственного реестра недвижимости:</Content>
+</HeadContent>
+<ExtractObject>
+<ObjectRight>
+<Right RightNumber="1">
+<Owner >
+<ID_Subject>504975374877</ID_Subject>
+<Organization>
+<Code_SP>007002000000</Code_SP>
+<Content>Общество с ограниченной ответственностью &quot;Красносельский&quot;, ИНН: 7716887668</Content>
+<Name>Общество с ограниченной ответственностью &quot;Красносельский&quot;</Name>
+<INN>7716887668</INN>
+</Organization>
+</Owner>
+<Registration >
+<ID_Record>505104039677</ID_Record>
+<RegNumber>77:01:0003022:1014-77/011/2018-13</RegNumber>
+<Type>001001000000</Type>
+<Name>Собственность, № 77:01:0003022:1014-77/011/2018-13 от 01.02.2018</Name>
+<RegDate>01.02.2018</RegDate>
+</Registration>
+<NoEncumbrance>не зарегистрировано</NoEncumbrance>
+</Right>
+<NoShareHolding>не зарегистрировано</NoShareHolding>
+</ObjectRight>
+<RightAssert>данные отсутствуют</RightAssert>
+<RightClaim>данные отсутствуют</RightClaim>
+<RightAgainst>данные отсутствуют</RightAgainst>
+<RightSteal>данные отсутствуют</RightSteal>
+<WithoutThirdParty>данные отсутствуют</WithoutThirdParty>
+<InabilityRegWithoutOwner></InabilityRegWithoutOwner>
+<InabilityRegZU></InabilityRegZU>
+</ExtractObject>
+<InfoENK/>
+<InfoPIK/>
+<FootContent>
+<Recipient>Круглова Анастасия Владимировна</Recipient>
+<ExtractDate>06.07.2018</ExtractDate>
+<Content></Content>
+</FootContent>
+</ExtractObjectRight>
+</ReestrExtract>
+</KVOKS>

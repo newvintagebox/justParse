@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="https://portal.rosreestr.ru/xsl/EGRP/Reestr_Extract_Big/OKS/07/Common.xsl"?>
+
+<KVOKS xmlns="urn://x-artefacts-rosreestr-ru/outgoing/kvoks/3.0.1"
+xmlns:smev="urn://x-artefacts-smev-gov-ru/supplementary/commons/1.0.1"
+xmlns:num="urn://x-artefacts-rosreestr-ru/commons/complex-types/numbers/1.0"
+xmlns:adrs="urn://x-artefacts-rosreestr-ru/commons/complex-types/address-output/4.0.1"
+xmlns:spa="urn://x-artefacts-rosreestr-ru/commons/complex-types/entity-spatial/5.0.1"
+xmlns:param="urn://x-artefacts-rosreestr-ru/commons/complex-types/parameters-oks/2.0.1"
+xmlns:cer="urn://x-artefacts-rosreestr-ru/commons/complex-types/certification-doc/1.0"
+xmlns:doc="urn://x-artefacts-rosreestr-ru/commons/complex-types/document-output/4.0.1"
+xmlns:ch="urn://x-artefacts-rosreestr-ru/commons/complex-types/cultural-heritage/2.0.1">
+<Realty>
+<Building CadastralNumber="77:01:0004016:1067" State="01"
+DateCreated="2012-05-22"
+>
+<CadastralBlocks>
+<CadastralBlock>77:01:0004016</CadastralBlock>
+</CadastralBlocks>
+<ObjectType>002001002000</ObjectType>
+<ParentCadastralNumbers>
+<CadastralNumber>77:01:0004016:183</CadastralNumber>
+</ParentCadastralNumbers>
+<OldNumbers>
+<num:OldNumber Type="01" Number="45:286:002:000180210" />
+</OldNumbers>
+<Name>Здание</Name>
+<AssignationBuilding>204001000000</AssignationBuilding>
+<ElementsConstruct>
+<param:Material Wall="061001007000" />
+</ElementsConstruct>
+<ExploitationChar YearBuilt="1989" YearUsed="1989" />
+<Floors Floors="8" UndergroundFloors="1" />
+<Area>8457.7</Area>
+<Address>
+<adrs:OKATO>45286585000</adrs:OKATO>
+<adrs:KLADR>77000000000053500</adrs:KLADR>
+<adrs:Region>77</adrs:Region>
+<adrs:Street Name="Бутырский Вал" Type="ул" />
+<adrs:Level1 Type="д" Value="18" />
+<adrs:Level3 Type="строен" Value="1" />
+<adrs:Note>г. Москва, ул. Бутырский Вал, д. 18, стр. 1</adrs:Note>
+</Address>
+<CadastralCost Value="397125975.15" Unit="383" />
+<Encumbrances>
+<Encumbrance>
+<Type>022006000000</Type>
+<OwnersRestrictionInFavorem>
+<OwnerRestrictionInFavorem>
+<Organization>
+<Name>Открытое акционерное общество &quot;ФОНДСЕРВИСБАНК&quot;</Name>
+</Organization>
+</OwnerRestrictionInFavorem>
+</OwnersRestrictionInFavorem>
+<Registration>
+<RegNumber>77-77-12/003/2012-698</RegNumber>
+<RegDate>2012-03-07</RegDate>
+</Registration>
+</Encumbrance>
+<Encumbrance>
+<Type>022006000000</Type>
+<OwnersRestrictionInFavorem>
+<OwnerRestrictionInFavorem>
+<Organization>
+<Name>Открытое акционерное общество &quot;ФОНДСЕРВИСБАНК&quot;</Name>
+</Organization>
+</OwnerRestrictionInFavorem>
+</OwnersRestrictionInFavorem>
+<Registration>
+<RegNumber>77-77-13/008/2008-824</RegNumber>
+<RegDate>2008-07-17</RegDate>
+</Registration>
+</Encumbrance>
+<Encumbrance>
+<Type>022006000000</Type>
+<OwnersRestrictionInFavorem>
+<OwnerRestrictionInFavorem>
+<Organization>
+<Name>Открытое акционерное общество &quot;ФОНДСЕРВИСБАНК&quot;</Name>
+</Organization>
+</OwnerRestrictionInFavorem>
+</OwnersRestrictionInFavorem>
+<Registration>
+<RegNumber>77-77-12/017/2011-827</RegNumber>
+<RegDate>2011-09-02</RegDate>
+</Registration>
+</Encumbrance>
+</Encumbrances>
+<Notes> Сведения о количестве этажей, в том числе подземных этажей имеют статус «Актуальные незасвидетельствованные». Право (ограничение права, обременение объекта недвижимости) зарегистрировано на данный объект недвижимости с количеством этажей 7, в том числе подземных этажей 1.</Notes>
+<Flats>
+<Flat CadastralNumber="77:01:0004016:1097" >
+<Area>1053.8</Area>
+<PositionInObject>
+<Levels>
+<Level Number="0" Type="04">
+<Position NumberOnPlan="2117945/0001">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+</Flat>
+<Flat CadastralNumber="77:01:0004016:1098" >
+<Area>803.8</Area>
+<PositionInObject>
+<Levels>
+<Level Number="1" Type="01">
+<Position NumberOnPlan="2117945/0002">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+</Flat>
+<Flat CadastralNumber="77:01:0004016:1099" >
+<Area>17.7</Area>
+<PositionInObject>
+<Levels>
+<Level Number="1" Type="01">
+<Position NumberOnPlan="2117945/0003">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+</Flat>
+<Flat CadastralNumber="77:01:0004016:1100" >
+<Area>17.3</Area>
+<PositionInObject>
+<Levels>
+<Level Number="1" Type="01">
+<Position NumberOnPlan="2117945/0004">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+</Flat>
+<Flat CadastralNumber="77:01:0004016:1101" >
+<Area>172.6</Area>
+<PositionInObject>
+<Levels>
+<Level Number="1" Type="01">
+<Position NumberOnPlan="2117945/0005">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+</Flat>
+<Flat CadastralNumber="77:01:0004016:1102" >
+<Area>1025.5</Area>
+<PositionInObject>
+<Levels>
+<Level Number="2" Type="01">
+<Position NumberOnPlan="2117945/0006">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+</Flat>
+<Flat CadastralNumber="77:01:0004016:1103" >
+<Area>1020.5</Area>
+<PositionInObject>
+<Levels>
+<Level Number="3" Type="01">
+<Position NumberOnPlan="2117945/0007">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+</Flat>
+<Flat CadastralNumber="77:01:0004016:1104" >
+<Area>1023.5</Area>
+<PositionInObject>
+<Levels>
+<Level Number="4" Type="01">
+<Position NumberOnPlan="2117945/0008">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+</Flat>
+<Flat CadastralNumber="77:01:0004016:1105" >
+<Area>1026</Area>
+<PositionInObject>
+<Levels>
+<Level Number="5" Type="01">
+<Position NumberOnPlan="2117945/0009">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+</Flat>
+<Flat CadastralNumber="77:01:0004016:1106" >
+<Area>1043.8</Area>
+<PositionInObject>
+<Levels>
+<Level Number="6" Type="01">
+<Position NumberOnPlan="2117945/0010">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+</Flat>
+<Flat CadastralNumber="77:01:0004016:1107" >
+<Area>783.8</Area>
+<PositionInObject>
+<Levels>
+<Level Number="7" Type="01">
+<Position NumberOnPlan="2117945/0011">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+</Flat>
+<Flat CadastralNumber="77:01:0004016:1109" >
+<Area>9.7</Area>
+<PositionInObject>
+<Levels>
+<Level Number="1" Type="01">
+<Position NumberOnPlan="2117945/0013">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+</Flat>
+<Flat CadastralNumber="77:01:0004016:1110" >
+<Area>45.9</Area>
+<PositionInObject>
+<Levels>
+<Level Number="0" Type="04">
+<Position NumberOnPlan="2117945/0014">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+</Flat>
+<Flat CadastralNumber="77:01:0004016:1111" >
+<Area>59</Area>
+<PositionInObject>
+<Levels>
+<Level Number="1" Type="01">
+<Position NumberOnPlan="2117945/0015">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+</Flat>
+<Flat CadastralNumber="77:01:0004016:1112" >
+<Area>57.6</Area>
+<PositionInObject>
+<Levels>
+<Level Number="2" Type="01">
+<Position NumberOnPlan="2117945/0016">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+</Flat>
+<Flat CadastralNumber="77:01:0004016:1113" >
+<Area>57.6</Area>
+<PositionInObject>
+<Levels>
+<Level Number="3" Type="01">
+<Position NumberOnPlan="2117945/0017">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+</Flat>
+<Flat CadastralNumber="77:01:0004016:1114" >
+<Area>57.7</Area>
+<PositionInObject>
+<Levels>
+<Level Number="4" Type="01">
+<Position NumberOnPlan="2117945/0018">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+</Flat>
+<Flat CadastralNumber="77:01:0004016:1115" >
+<Area>56.8</Area>
+<PositionInObject>
+<Levels>
+<Level Number="5" Type="01">
+<Position NumberOnPlan="2117945/0019">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+</Flat>
+<Flat CadastralNumber="77:01:0004016:1116" >
+<Area>57.1</Area>
+<PositionInObject>
+<Levels>
+<Level Number="6" Type="01">
+<Position NumberOnPlan="2117945/0020">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+</Flat>
+<Flat CadastralNumber="77:01:0004016:1117" >
+<Area>57.5</Area>
+<PositionInObject>
+<Levels>
+<Level Number="7" Type="01">
+<Position NumberOnPlan="2117945/0021">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+</Flat>
+<Flat CadastralNumber="77:01:0004016:3942" >
+<Area>58.3</Area>
+</Flat>
+<Flat CadastralNumber="77:01:0004016:3943" >
+<Area>328</Area>
+</Flat>
+</Flats>
+</Building>
+</Realty>
+<CertificationDoc>
+<cer:Organization>ФГИС ЕГРН</cer:Organization>
+<cer:Date>2018-07-06</cer:Date>
+<cer:Number>99/2018/129877381</cer:Number>
+</CertificationDoc>
+<CoordSystems>
+<spa:CoordSystem Name="СК кадастрового округа" CsId="ID0" />
+</CoordSystems>
+<eDocument CodeType="112" Version="07" Scope="GKN">
+<Sender Kod="00.0.4.195"
+Name="ФГИС ЕГРН"
+Region="99"
+Date_Upload="2018-07-06"
+Appointment="Государственный регистратор"
+/>
+<Recipient Kod="00.0.4.111" Name="Круглова Анастасия Владимировна" />
+</eDocument>
+<ReestrExtract>
+<DeclarAttribute ID_KUVI="0"
+ExtractTypeCode="012000"
+ExtractTypeText="Выписка из Единого государственного реестра недвижимости об объекте недвижимости"
+ExtractNumber="99/2018/129877381"
+ExtractDate="06.07.2018"
+RequeryNumber="80-44697792"
+RequeryDate="06.07.2018"
+ExtractCount="1"
+NoticeCount="0"
+RefuseCount="0"
+Registrator="ФГИС ЕГРН">
+<ReceivName>Круглова Анастасия Владимировна</ReceivName>
+<ReceivAdress>не указан</ReceivAdress>
+</DeclarAttribute>
+<ExtractObjectRight>
+<HeadContent>
+<ID_REC_KUVI>0</ID_REC_KUVI>
+<Title>ФЕДЕРАЛЬНАЯ СЛУЖБА ГОСУДАРСТВЕННОЙ РЕГИСТРАЦИИ, КАДАСТРА И КАРТОГРАФИИ</Title>
+<DeptName>ФГИС ЕГРН</DeptName>
+<ExtractTitle>Выписка из Единого государственного реестра недвижимости об объекте недвижимости</ExtractTitle>
+<Content>На основании запроса от 06.07.2018 г., поступившего на рассмотрение 06.07.2018 г., сообщаем, что согласно записям Единого государственного реестра недвижимости:</Content>
+</HeadContent>
+<ExtractObject>
+<ObjectRight>
+<Right RightNumber="1">
+<Owner >
+<ID_Subject>24973442677</ID_Subject>
+<Organization>
+<Code_SP>007002000000</Code_SP>
+<Content>Федеральное государственное унитарное предприятие &quot;Организация &quot;Агат&quot;, ИНН: 7710096370</Content>
+<Name>Федеральное государственное унитарное предприятие &quot;Организация &quot;Агат&quot;</Name>
+<INN>7710096370</INN>
+</Organization>
+</Owner>
+<Registration >
+<ID_Record>514571665077</ID_Record>
+<RegNumber>77-01/00-011/2000-53312</RegNumber>
+<Type>001004000000</Type>
+<Name>Хозяйственное ведение, № 77-01/00-011/2000-53312 от 12.07.2000</Name>
+<RegDate>12.07.2000</RegDate>
+</Registration>
+<Encumbrance>
+<ID_Record>514571682177</ID_Record>
+<RegNumber>77-77-13/008/2008-824</RegNumber>
+<Type>022006000000</Type>
+<Name>Аренда</Name>
+<ShareText>подвал пом.I ком.5-19,25-29,этаж 1 пом.I ком.25-27,пом.IV ком.11 площадью: 399.8 кв.м ЧАСТЬ ОБЪЕКТА :
+1) подвал, помещение I - комната 5; назначение: НЕЖИЛОЕ ПОМЕЩЕНИЕ, площадь 4,3 кв.м(обременяется 4,3 кв.м.)
+2) этаж 1, помещение IV - комната 11; назначение: НЕЖИЛОЕ ПОМЕЩЕНИЕ, площадь 14,6 кв.м(обременяется 14,6 кв.м.)
+3) подвал, помещение I - комната 7; назначение: НЕЖИЛОЕ ПОМЕЩЕНИЕ, площадь 12,8 кв.м(обременяется 12,8 кв.м.)
+4) подвал, помещение I - комната 8; назначение: НЕЖИЛОЕ ПОМЕЩЕНИЕ, площадь 12,5 кв.м(обременяется 12,5 кв.м.)
+5) подвал, помещение I - комната 9; назначение: НЕЖИЛОЕ ПОМЕЩЕНИЕ, площадь 6,2 кв.м(обременяется 6,2 кв.м.)
+6) подвал, помещение I - комната 10; назначение: НЕЖИЛОЕ ПОМЕЩЕНИЕ, площадь 20,9 кв.м(обременяется 20,9 кв.м.)
+7) подвал, помещение I - комната 11; назначение: НЕЖИЛОЕ ПОМЕЩЕНИЕ, площадь 2 кв.м(обременяется 2 кв.м.)
+8) подвал, помещение I - комната 12; назначение: НЕЖИЛОЕ ПОМЕЩЕНИЕ, площадь 2 кв.м(обременяется 2 кв.м.)
+9) подвал, помещение I - комната 13; назначение: НЕЖИЛОЕ ПОМЕЩЕНИЕ, площадь 20,2 кв.м(обременяется 20,2 кв.м.)
+10) подвал, помещение I - комната 14; назначение: НЕЖИЛОЕ ПОМЕЩЕНИЕ, площадь 2,2 кв.м(обременяется 2,2 кв.м.)
+11) подвал, помещение I - комната 15; назначение: НЕЖИЛОЕ ПОМЕЩЕНИЕ, площадь 2,9 кв.м(обременяется 2,9 кв.м.)
+12) подвал, помещение I - комната 16; назначение: НЕЖИЛОЕ ПОМЕЩЕНИЕ, площадь 29,5 кв.м(обременяется 29,5 кв.м.)
+13) подвал, помещение I - комната 17; назначение: НЕЖИЛОЕ ПОМЕЩЕНИЕ, площадь 2 кв.м(обременяется 2 кв.м.)
+14) подвал, помещение I - комната 18; назначение: НЕЖИЛОЕ ПОМЕЩЕНИЕ, площадь 1,9 кв.м(обременяется 1,9 кв.м.)
+15) подвал, помещение I - комната 19; назначение: НЕЖИЛОЕ ПОМЕЩЕНИЕ, площадь 2 кв.м(обременяется 2 кв.м.)
+16) подвал, помещение I - комната 25; назначение: НЕЖИЛОЕ ПОМЕЩЕНИЕ, площадь 8,6 кв.м(обременяется 8,6 кв.м.)
+17) подвал, помещение I - комната 26; назначение: НЕЖИЛОЕ ПОМЕЩЕНИЕ, площадь 66,5 кв.м(обременяется 66,5 кв.м.)
+18) подвал, помещение I - комната 27; назначение: НЕЖИЛОЕ ПОМЕЩЕНИЕ, площадь 34,4 кв.м(обременяется 34,4 кв.м.)
+19) подвал, помещение I - комната 28; назначение: НЕЖИЛОЕ ПОМЕЩЕНИЕ, площадь 67,7 кв.м(обременяется 67,7 кв.м.)
+20) подвал, помещение I - комната 29; назначение: НЕЖИЛОЕ ПОМЕЩЕНИЕ, площадь 58,4 кв.м(обременяется 58,4 кв.м.)
+21) этаж 1, помещение I - комната 25; назначение: НЕЖИЛОЕ ПОМЕЩЕНИЕ, площадь 7,8 кв.м(обременяется 7,8 кв.м.)
+22) этаж 1, помещение I - комната 26; назначение: НЕЖИЛОЕ ПОМЕЩЕНИЕ, площадь 1,7 кв.м(обременяется 1,7 кв.м.)
+23) этаж 1, помещение I - комната 27; назначение: НЕЖИЛОЕ ПОМЕЩЕНИЕ, площадь 6,6 кв.м(обременяется 6,6 кв.м.)
+24) подвал, помещение I - комната 6; назначение: НЕЖИЛОЕ ПОМЕЩЕНИЕ, площадь 12,1 кв.м(обременяется 12,1 кв.м.)</ShareText>
+<RegDate>17.07.2008</RegDate>
+<Duration>
+<Started>17.07.2008</Started>
+<Term>на срок до: 20.11.2012г. </Term>
+</Duration>
+<Owner >
+<ID_Subject>41473265877</ID_Subject>
+<Organization>
+<Code_SP>007002000000</Code_SP>
+<Content>Акционерное общество &quot;ФОНДСЕРВИСБАНК&quot;, ИНН: 7727051787</Content>
+<Name>Акционерное общество &quot;ФОНДСЕРВИСБАНК&quot;</Name>
+<INN>7727051787</INN>
+</Organization>
+</Owner>
+<DocFound>
+<ID_Document>514571684677</ID_Document>
+<Content>ДОГОВОР АРЕНДЫ от 10.12.2007г. № Д-30/700 и
+ДОПОЛНИТЕЛЬНОЕ СОГЛАШЕНИЕ от 10.12.2007г.
+№ Д-30/701, зарегистрированные __________за №77-77-13/008/2008-824 </Content>
+<Type_Document>010004000000</Type_Document>
+<Name>ДОГОВОР АРЕНДЫ от 10.12.2007г. № Д-30/700 и ДОПОЛНИТЕЛЬНОЕ СОГЛАШЕНИЕ от 10.12.2007г. № Д-30/701, зарегистрированные __________за №77-77-13/008/2008-824 </Name>
+<Number>б/н</Number>
+<Date>10.12.2007</Date>
+</DocFound>
+</Encumbrance>
+<Encumbrance>
+<ID_Record>514571666877</ID_Record>
+<RegNumber>77-77-12/017/2011-827</RegNumber>
+<Type>022006000000</Type>
+<Name>Аренда</Name>
+<ShareText>часть объекта:
+1) этаж 1 - комната Б, площадь 21,7 кв.м
+2) этаж 2, помещение I - комната 18г, площадь 13,3 кв.м
+3) этаж 1, помещение I - комната 2, площадь 34,7 кв.м
+4) этаж 1, помещение I - комната 3, площадь 24,5 кв.м
+5) этаж 1, помещение I - комната 4, площадь 8,7 кв.м
+6) этаж 1, помещение I - комната 5, площадь 3,8 кв.м
+7) этаж 1, помещение I - комната 6, площадь 22,4 кв.м
+8) этаж 1, помещение I - комната 7, площадь 21,5 кв.м
+9) этаж 1, помещение I - комната 8, площадь 2,3 кв.м
+10) этаж 1, помещение I - комната 9, площадь 5,7 кв.м
+11) этаж 1, помещение I - комната 10, площадь 7,6 кв.м
+12) этаж 1, помещение I - комната 11, площадь 6 кв.м
+13) этаж 1, помещение I - комната 12, площадь 6,1 кв.м
+14) этаж 1, помещение I - комната 13, площадь 6,7 кв.м
+15) этаж 1, помещение I - комната 14, площадь 10,6 кв.м
+16) этаж 1, помещение I - комната 15, площадь 25,3 кв.м
+17) этаж 1, помещение I - комната 19б, площадь 9 кв.м
+18) этаж 1, помещение I - комната 29, площадь 35 кв.м
+19) этаж 1, помещение I - комната 30, площадь 16,6 кв.м
+20) этаж 1, помещение I - комната 31, площадь 16,9 кв.м
+21) этаж 1, помещение I - комната 32, площадь 16,6 кв.м
+22) этаж 1, помещение I - комната 33, площадь 17 кв.м
+23) этаж 1, помещение I - комната 34, площадь 15,5 кв.м
+24) этаж 1, помещение I - комната б, площадь 3,3 кв.м
+25) этаж 1, помещение I - комната 35, площадь 18,3 кв.м
+26) этаж 2 - комната Б, площадь 20,2 кв.м
+27) этаж 2, помещение I - комната 1, площадь 17 кв.м
+28) этаж 2, помещение I - комната 2, площадь 35,4 кв.м
+29) этаж 2, помещение I - комната 3, площадь 12,6 кв.м
+30) этаж 2, помещение I - комната 4, площадь 4,4 кв.м
+31) этаж 2, помещение I - комната 5, площадь 8,3 кв.м
+32) этаж 2, помещение I - комната 6, площадь 5,6 кв.м
+33) этаж 2, помещение I - комната 7, площадь 21,9 кв.м
+34) этаж 2, помещение I - комната 8, площадь 2,2 кв.м
+35) этаж 2, помещение I - комната 9, площадь 5,6 кв.м
+36) этаж 2, помещение I - комната 10, площадь 7,8 кв.м
+37) этаж 2, помещение I - комната 11, площадь 6,2 кв.м
+38) этаж 2, помещение I - комната 12, площадь 6,5 кв.м
+39) этаж 2, помещение I - комната 13, площадь 22,4 кв.м
+40) этаж 2, помещение I - комната 14, площадь 19,3 кв.м
+41) этаж 2, помещение I - комната 15, площадь 16,3 кв.м
+42) этаж 2, помещение I - комната 16, площадь 17,6 кв.м
+43) этаж 2, помещение I - комната 17, площадь 17,4 кв.м
+44) этаж 2, помещение I - комната 18а, площадь 17,6 кв.м
+45) этаж 2, помещение I - комната 18б, площадь 14 кв.м
+46) этаж 2, помещение I - комната 18в, площадь 10,5 кв.м
+47) этаж 1, помещение I - комната б1, площадь 3,2 кв.м</ShareText>
+<RegDate>02.09.2011</RegDate>
+<Duration>
+<Started>04.02.2011</Started>
+<Stopped>31.12.2011</Stopped>
+<Term>с 04.02.2011 по 31.12.2011</Term>
+</Duration>
+<Owner >
+<ID_Subject>41473265877</ID_Subject>
+<Organization>
+<Code_SP>007002000000</Code_SP>
+<Content>Акционерное общество &quot;ФОНДСЕРВИСБАНК&quot;, ИНН: 7727051787</Content>
+<Name>Акционерное общество &quot;ФОНДСЕРВИСБАНК&quot;</Name>
+<INN>7727051787</INN>
+</Organization>
+</Owner>
+<DocFound>
+<ID_Document>514571671677</ID_Document>
+<Content>Договор аренды № Д-30/89 от 04.02.2011 помещений здания, находящегося в хозяйственном ведении, заключенный по результатам торгов от 02.12.2010 oт 04.02.2011, дата регистрации 02.09.2011, №77-77-12/017/2011-827</Content>
+<Type_Document>010003004000</Type_Document>
+<Name>Договор аренды № Д-30/89 от 04.02.2011 помещений здания, находящегося в хозяйственном ведении, заключенный по результатам торгов от 02.12.2010</Name>
+<Number>б/н</Number>
+<Date>04.02.2011</Date>
+</DocFound>
+</Encumbrance>
+<Encumbrance>
+<ID_Record>514571677977</ID_Record>
+<RegNumber>77-77-12/003/2012-698</RegNumber>
+<Type>022006000000</Type>
+<Name>Аренда</Name>
+<ShareText>г.Москва, ул.Бутырский Вал, д.18, стр.1, этаж 1, пом. I, комн. 12,15,17,18,40,в, общая площадь 58,3 кв. м.
+</ShareText>
+<RegDate>07.03.2012</RegDate>
+<Duration>
+<Started>07.03.2012</Started>
+<Stopped>30.04.2015</Stopped>
+<Term> по 30.04.2015</Term>
+</Duration>
+<Owner >
+<ID_Subject>41473265877</ID_Subject>
+<Organization>
+<Code_SP>007002000000</Code_SP>
+<Content>Акционерное общество &quot;ФОНДСЕРВИСБАНК&quot;, ИНН: 7727051787</Content>
+<Name>Акционерное общество &quot;ФОНДСЕРВИСБАНК&quot;</Name>
+<INN>7727051787</INN>
+</Organization>
+</Owner>
+<DocFound>
+<ID_Document>514571678177</ID_Document>
+<Content>Договор аренды от 05.07.2010 № Д-30/789 с Дополнительным соглашением oт 05.07.2010 №Д-30/790, дата регистрации 07.03.2012, №77-77-12/003/2012-698</Content>
+<Type_Document>010003004000</Type_Document>
+<Name>Договор аренды от 05.07.2010 № Д-30/789 с Дополнительным соглашением</Name>
+<Number>Д-30/790</Number>
+<Date>05.07.2010</Date>
+</DocFound>
+</Encumbrance>
+</Right>
+<Right RightNumber="2">
+<Owner >
+<ID_Subject>20837507277</ID_Subject>
+<Governance>
+<Code_SP>007001000000</Code_SP>
+<Content>Российская Федерация</Content>
+<Name>Российская Федерация</Name>
+<OKATO_Code>45000000000</OKATO_Code>
+<Country>Российская Федерация</Country>
+<Address>Россия</Address>
+</Governance>
+</Owner>
+<Registration >
+<ID_Record>514571664377</ID_Record>
+<RegNumber>77-77-13/016/2007-040</RegNumber>
+<Type>001001000000</Type>
+<Name>Собственность, № 77-77-13/016/2007-040 от 10.12.2007</Name>
+<RegDate>10.12.2007</RegDate>
+</Registration>
+<NoEncumbrance>не зарегистрировано</NoEncumbrance>
+</Right>
+<NoShareHolding>не зарегистрировано</NoShareHolding>
+</ObjectRight>
+<RightAssert>Представлены документы на:
+Регистрация договора аренды (субаренды), запись №12/001/2011-726 от 19.01.2011 09:45
+на данный объект. В государственной регистрации Договора аренды отказано.
+Вх. № 77-77-12/001/2011-726 от 19.01.2011.</RightAssert>
+<RightClaim>данные отсутствуют</RightClaim>
+<RightAgainst>данные отсутствуют</RightAgainst>
+<RightSteal>данные отсутствуют</RightSteal>
+<WithoutThirdParty>данные отсутствуют</WithoutThirdParty>
+<InabilityRegWithoutOwner></InabilityRegWithoutOwner>
+<InabilityRegZU></InabilityRegZU>
+</ExtractObject>
+<InfoENK/>
+<InfoPIK/>
+<FootContent>
+<Recipient>Круглова Анастасия Владимировна</Recipient>
+<ExtractDate>06.07.2018</ExtractDate>
+<Content></Content>
+</FootContent>
+</ExtractObjectRight>
+</ReestrExtract>
+</KVOKS>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="https://portal.rosreestr.ru/xsl/EGRP/Reestr_Extract_Big/ROOM/07/Common.xsl"?>
+
+<KPOKS xmlns="urn://x-artefacts-rosreestr-ru/outgoing/kpoks/4.0.1"
+xmlns:smev="urn://x-artefacts-smev-gov-ru/supplementary/commons/1.0.1"
+xmlns:num="urn://x-artefacts-rosreestr-ru/commons/complex-types/numbers/1.0"
+xmlns:adrs="urn://x-artefacts-rosreestr-ru/commons/complex-types/address-output/4.0.1"
+xmlns:spa="urn://x-artefacts-rosreestr-ru/commons/complex-types/entity-spatial/5.0.1"
+xmlns:param="urn://x-artefacts-rosreestr-ru/commons/complex-types/parameters-oks/2.0.1"
+xmlns:cer="urn://x-artefacts-rosreestr-ru/commons/complex-types/certification-doc/1.0"
+xmlns:doc="urn://x-artefacts-rosreestr-ru/commons/complex-types/document-output/4.0.1"
+xmlns:flat="urn://x-artefacts-rosreestr-ru/commons/complex-types/assignation-flat/1.0.1"
+xmlns:ch="urn://x-artefacts-rosreestr-ru/commons/complex-types/cultural-heritage/2.0.1">
+<Realty>
+<Flat CadastralNumber="77:01:0004033:3031" State="06"
+DateCreated="2017-08-11"
+>
+<CadastralBlock>77:01:0004033</CadastralBlock>
+<ObjectType>002001003000</ObjectType>
+<ParentCadastralNumbers>
+<CadastralNumberOKS>77:01:0000000:1996</CadastralNumberOKS>
+</ParentCadastralNumbers>
+<Assignation>
+<flat:AssignationCode>206001000000</flat:AssignationCode>
+</Assignation>
+<Area>87.5</Area>
+<Address>
+<adrs:OKATO>45286575000</adrs:OKATO>
+<adrs:KLADR>77000000000738800</adrs:KLADR>
+<adrs:PostalCode>123112</adrs:PostalCode>
+<adrs:Region>77</adrs:Region>
+<adrs:Street Name="Пресненская" Type="наб" />
+<adrs:Level1 Type="д" Value="6" />
+<adrs:Level2 Type="строение" Value="2" />
+</Address>
+<PositionInObject>
+<Levels>
+<Level Number="13" Type="01">
+<Position NumberOnPlan="пом. I, ком. 19">
+</Position>
+</Level>
+</Levels>
+</PositionInObject>
+<CadastralCost Value="19404934.5" Unit="383" />
+<Rights>
+<Right>
+<Name>Собственность</Name>
+<Type>001001000000</Type>
+<Owners>
+<Owner>
+<Organization>
+<Name>Общество с ограниченной ответсвенностью &quot;Солверс Консалтинг&quot;</Name>
+</Organization>
+</Owner>
+</Owners>
+<Registration>
+<RegNumber>77:01:0004033:3031-77/011/2018-3</RegNumber>
+<RegDate>2018-04-03</RegDate>
+</Registration>
+</Right>
+</Rights>
+</Flat>
+</Realty>
+<CertificationDoc>
+<cer:Organization>ФГИС ЕГРН</cer:Organization>
+<cer:Date>2018-07-06</cer:Date>
+<cer:Number>99/2018/129877370</cer:Number>
+</CertificationDoc>
+<Contractors>
+<Contractor >
+<FamilyName>Ирванёва</FamilyName>
+<FirstName>Мария</FirstName>
+<Patronymic>Сергеевна</Patronymic>
+<NCertificate>77-15-116</NCertificate>
+</Contractor>
+</Contractors>
+<CoordSystems>
+<spa:CoordSystem Name="СК кадастрового округа" CsId="ID0" />
+</CoordSystems>
+<eDocument CodeType="112" Version="07" Scope="GKN">
+<Sender Kod="00.0.4.195"
+Name="ФГИС ЕГРН"
+Region="99"
+Date_Upload="2018-07-06"
+Appointment="Государственный регистратор"
+/>
+<Recipient Kod="00.0.4.111" Name="Круглова Анастасия Владимировна" />
+</eDocument>
+<ReestrExtract>
+<DeclarAttribute ID_KUVI="0"
+ExtractTypeCode="012000"
+ExtractTypeText="Выписка из Единого государственного реестра недвижимости об объекте недвижимости"
+ExtractNumber="99/2018/129877370"
+ExtractDate="06.07.2018"
+RequeryNumber="80-44697798"
+RequeryDate="06.07.2018"
+ExtractCount="1"
+NoticeCount="0"
+RefuseCount="0"
+Registrator="ФГИС ЕГРН">
+<ReceivName>Круглова Анастасия Владимировна</ReceivName>
+<ReceivAdress>не указан</ReceivAdress>
+</DeclarAttribute>
+<ExtractObjectRight>
+<HeadContent>
+<ID_REC_KUVI>0</ID_REC_KUVI>
+<Title>ФЕДЕРАЛЬНАЯ СЛУЖБА ГОСУДАРСТВЕННОЙ РЕГИСТРАЦИИ, КАДАСТРА И КАРТОГРАФИИ</Title>
+<DeptName>ФГИС ЕГРН</DeptName>
+<ExtractTitle>Выписка из Единого государственного реестра недвижимости об объекте недвижимости</ExtractTitle>
+<Content>На основании запроса от 06.07.2018 г., поступившего на рассмотрение 06.07.2018 г., сообщаем, что согласно записям Единого государственного реестра недвижимости:</Content>
+</HeadContent>
+<ExtractObject>
+<ObjectRight>
+<Right RightNumber="1">
+<Owner >
+<ID_Subject>515995018977</ID_Subject>
+<Organization>
+<Code_SP>007002000000</Code_SP>
+<Content>Общество с ограниченной ответсвенностью &quot;Солверс Консалтинг&quot;, ИНН: 7703443859</Content>
+<Name>Общество с ограниченной ответсвенностью &quot;Солверс Консалтинг&quot;</Name>
+<INN>7703443859</INN>
+</Organization>
+</Owner>
+<Registration >
+<ID_Record>529173054077</ID_Record>
+<RegNumber>77:01:0004033:3031-77/011/2018-3</RegNumber>
+<Type>001001000000</Type>
+<Name>Собственность, № 77:01:0004033:3031-77/011/2018-3 от 03.04.2018</Name>
+<RegDate>03.04.2018</RegDate>
+</Registration>
+<NoEncumbrance>не зарегистрировано</NoEncumbrance>
+</Right>
+<NoShareHolding>не зарегистрировано</NoShareHolding>
+</ObjectRight>
+<RightAssert>данные отсутствуют</RightAssert>
+<RightClaim>данные отсутствуют</RightClaim>
+<RightAgainst>данные отсутствуют</RightAgainst>
+<RightSteal>данные отсутствуют</RightSteal>
+<WithoutThirdParty>данные отсутствуют</WithoutThirdParty>
+<InabilityRegWithoutOwner></InabilityRegWithoutOwner>
+<InabilityRegZU></InabilityRegZU>
+</ExtractObject>
+<InfoENK/>
+<InfoPIK/>
+<FootContent>
+<Recipient>Круглова Анастасия Владимировна</Recipient>
+<ExtractDate>06.07.2018</ExtractDate>
+<Content></Content>
+</FootContent>
+</ExtractObjectRight>
+</ReestrExtract>
+</KPOKS>
